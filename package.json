@@ -1,0 +1,15 @@
+{
+  "name": "rn-techigai-component-library",
+  "version": "1.0.1",
+  "description": "techigai components library",
+  "main": "index.ts",
+  "repository": "https://github.com/kamalradha/rn-techigai-component-library.git",
+  "author": "Radha Kamal <radha.k@techigai.io>",
+  "license": "MIT",
+  "dependencies": {
+    "ramda": "^0.27.1"
+  },
+  "devDependencies": {
+    "@types/ramda": "^0.27.58"
+  }
+}
