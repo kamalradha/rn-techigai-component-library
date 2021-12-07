@@ -1,6 +1,6 @@
 {
   "name": "rn-techigai-component-library",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "techigai components library",
   "main": "index.ts",
   "repository": "https://github.com/kamalradha/rn-techigai-component-library.git",
@@ -11,5 +11,6 @@
   },
   "devDependencies": {
     "@types/ramda": "^0.27.58"
-  }
+  },
+  "private": null
 }
